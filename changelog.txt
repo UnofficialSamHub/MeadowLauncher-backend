@@ -1,2 +1,1 @@
-0.1.2.0:
-Added auto-updater.
+Added help tooltips! You can now hover over buttons and they will tell you what they can do.
