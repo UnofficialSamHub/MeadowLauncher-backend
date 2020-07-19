@@ -2,6 +2,6 @@
 <item>
     <version>0.1.2.0</version>
     <url>https://github.com/UnofficialSamHub/MeadowMaker/releases/download/v0.1.1/MLM.zip</url>
-    <changelog>https://github.com/UnofficialSamHub/MeadowMaker/releases</changelog>
-    <mandatory>true</mandatory>
+    <changelog>https://raw.githubusercontent.com/UnofficialSamHub/MeadowMakerBackend/master/changelog.txt</changelog>
+    <mandatory>false</mandatory>
 </item>
