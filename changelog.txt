@@ -1,3 +1,2 @@
-Removed Meadow Version! We don't need it!
-Added "Open Pack Folder" button.
-Moved pack generation from %appdata%/MeadowLandMaker to %appdata%/MeadowLandMaker/packs
+Stable Release!!
+Thank you for using MLM.
