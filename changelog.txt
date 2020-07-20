@@ -1,2 +1,1 @@
-Stable Release!!
-Thank you for using MLM.
+MLM will now attempt grabbing the Font Name automatically.
