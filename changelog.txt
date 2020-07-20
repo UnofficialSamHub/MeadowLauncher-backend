@@ -1,1 +1,2 @@
-Added help tooltips! You can now hover over buttons and they will tell you what they can do.
+Added Meadow Version!
+Added Forgotten Fields! Now you'll know what you forgot to fill in!
