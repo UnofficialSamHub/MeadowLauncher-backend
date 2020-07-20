@@ -1,2 +1,3 @@
-Added Meadow Version!
-Added Forgotten Fields! Now you'll know what you forgot to fill in!
+Removed Meadow Version! We don't need it!
+Added "Open Pack Folder" button.
+Moved pack generation from %appdata%/MeadowLandMaker to %appdata%/MeadowLandMaker/packs
