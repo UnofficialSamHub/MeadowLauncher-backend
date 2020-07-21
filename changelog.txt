@@ -1,1 +1,2 @@
-MLM will now attempt grabbing the Font Name automatically.
+If no Pack Name is entered, DateTime.Now.Ticks is used.
+Minor improvements.
