@@ -1,2 +1,0 @@
-If no Pack Name is entered, DateTime.Now.Ticks is used.
-Minor improvements.
